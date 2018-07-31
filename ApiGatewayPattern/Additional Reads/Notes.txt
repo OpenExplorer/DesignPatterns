@@ -3,3 +3,6 @@ https://www.youtube.com/watch?v=VqR8nN_5VtM
 
 Github Samples
 https://github.com/Azure/api-management-samples/
+
+Additional Read
+https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-api-management-overview
