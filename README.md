@@ -1,7 +1,7 @@
 # Design Patterns
 
 TO DO:
-- [ ] Api Gateway Pattern
+- [x] Api Gateway Pattern
 - [ ] Cache Aside Pattern
 - [ ] Circuit Breaker
 - [ ] Compensating Transaction
