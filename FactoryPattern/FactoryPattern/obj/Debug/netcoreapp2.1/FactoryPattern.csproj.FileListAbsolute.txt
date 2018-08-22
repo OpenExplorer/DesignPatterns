@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\ConsoleApp3\FactoryPattern\bin\Debug\netcoreapp2.1\FactoryPattern.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp3\FactoryPattern\bin\Debug\netcoreapp2.1\FactoryPattern.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp3\FactoryPattern\bin\Debug\netcoreapp2.1\FactoryPattern.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp3\FactoryPattern\bin\Debug\netcoreapp2.1\FactoryPattern.dll
+C:\Users\Administrator\source\repos\ConsoleApp3\FactoryPattern\bin\Debug\netcoreapp2.1\FactoryPattern.pdb
+C:\Users\Administrator\source\repos\ConsoleApp3\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp3\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp3\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp3\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp3\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.dll
+C:\Users\Administrator\source\repos\ConsoleApp3\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.pdb
